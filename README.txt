@@ -106,5 +106,3 @@ Beyond the subjectivity question arises a philosophical basis for process-painti
 Process-painting ‘skips’ to its ends.  Its means are abstract and often irretrievable.  One hardly gets a second chance.
 
 Process is always first.
-
-
