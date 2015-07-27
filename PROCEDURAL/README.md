@@ -92,3 +92,5 @@ PAINTING
 * [wherrmann/woolifier] (https://github.com/wherrmann/woolifier)
 * [yuki1107/PainterlyRendering] (https://github.com/yuki1107/PainterlyRendering)
 * [ryanchanwo/PaulKleeGenerator] (https://github.com/ryanchanwo/PaulKleeGenerator)
+* [spenteco/linoleumBlocks] (https://github.com/spenteco/linoleumBlocks)
+* [KristinHenry/Sketches2014] (https://github.com/KristinHenry/Sketches2014)
