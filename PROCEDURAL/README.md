@@ -128,7 +128,7 @@ NOISE/IMAGE/SOUND/SYNTHESIS/ETC. GISTS
 * [Count zero crossings to determine frequency] (https://gist.github.com/antiface/234a98a988fdd2bc51fb)
 * [Kalman Filter in Python] (https://gist.github.com/antiface/302e2f95fe83e70edf54)
 * [Gaussian Process] (https://gist.github.com/antiface/3b34a49420a27addbf28)
-* [bangai-o soundhax (https://gist.github.com/antiface/da391198ca82c7443827)
+* [bangai-o soundhax] (https://gist.github.com/antiface/da391198ca82c7443827)
 * [Sample_code_Kalman_Filter.py] (https://gist.github.com/antiface/682c5f292c4fb8d9e589)
 * [Oscilloscope-like plotting of waveforms] (https://gist.github.com/antiface/a0a7b7525d709c28723c)
 * [generate random data for testing models] (https://gist.github.com/antiface/c3d6fdfcdb5366ab1549)
