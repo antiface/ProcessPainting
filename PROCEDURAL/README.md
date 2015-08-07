@@ -95,7 +95,8 @@ PAINTING
 * [spenteco/linoleumBlocks] (https://github.com/spenteco/linoleumBlocks)
 * [KristinHenry/Sketches2014] (https://github.com/KristinHenry/Sketches2014)
 
-NOISE/IMAGE/SOUND/SYNTHESIS/ETC. GISTS:
+NOISE/IMAGE/SOUND/SYNTHESIS/ETC. GISTS
+======================================
 * [simple perlin noise] (https://gist.github.com/antiface/49c8962fbdd6d7bb4fc9)
 * [Python: generate audio noise] (https://gist.github.com/antiface/a2c16d94f15edca73ae1)
 * [python Perlin Noise] (https://gist.github.com/antiface/1bbe2cb1da2427d9760f)
