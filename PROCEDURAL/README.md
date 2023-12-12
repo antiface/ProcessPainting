@@ -109,7 +109,7 @@ NOISE/IMAGE/SOUND/SYNTHESIS/ETC. GISTS
 * [Python implementation of perlin noise (improved) : http://mrl.nyu.edu/~perlin/noise/](https://gist.github.com/antiface/caf66d49fc08a256f31d)
 * [Python implementation of several forms of Value Noise functions, like Perlin and Simplex noise](https://gist.github.com/antiface/d1bd8562d3c922d17df4)
 * [pseudo-code for perlin-noise based generative impressionist paintings](https://gist.github.com/antiface/56840d977caf68853d34)
-* [Perlin noise generator, depends on PIL. Uses it's own gradient generators, and it's own gaussian blur functionality] https://gist.github.com/antiface/aa2671f53b379e152bb7)
+* [Perlin noise generator, depends on PIL. Uses it's own gradient generators, and it's own gaussian blur functionality](https://gist.github.com/antiface/aa2671f53b379e152bb7)
 * [noise.py](https://gist.github.com/antiface/84fe9d8407e408500579)
 * [Compare Savitzky-Golay filter f( x + xnoise ) ~ Savgol( f( x )) + ynoise for f(x) = sin( 2 pi freq x ), to try to elucidate Press et al., Numerical Recipes p. 772.](https://gist.github.com/antiface/f37cd968f63463978c78)
 * [simple_noise.py](https://gist.github.com/antiface/2a9bed0affbac50fce4f)
