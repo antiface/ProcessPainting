@@ -1,5 +1,6 @@
 Process-Painting
 ================
+Stable Release v1.0.1 [![DOI](https://zenodo.org/badge/28239829.svg)](https://zenodo.org/doi/10.5281/zenodo.10361940)
 
 Process-Painting Manifesto
 Saturday, January 24, 2004
